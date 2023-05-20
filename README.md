@@ -26,4 +26,5 @@ Para configurar e executar o sistema, siga as etapas abaixo:
 
 ## Utilização
 
-Acesse o sistema por postman ou similar por meio dos métodos GET e POST. Após cada lançamento, o sistema exibirá o saldo atualizado. Você pode continuar realizando lançamentos de subtração conforme necessário até que o saldo disponível do clube ou dos recursos se esgote.
+Acesse o sistema por postman ou similar, por meio dos métodos GET e POST. 
+Após cada lançamento, o sistema exibirá o saldo atualizado. Você pode continuar realizando lançamentos de subtração conforme necessário até que o saldo disponível do clube ou dos recursos se esgote.
