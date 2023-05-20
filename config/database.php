@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-    private $host = "162.241.61.89";
-    private $database_name = "systex91_DB_API";
-    private $username = "systex91_root_api";
-    private $password = "nvbb2612!@";
+    private $host = "localhost";
+    private $database_name = "database";
+    private $username = "root";
+    private $password = "";
 
     public $conn;
     public function getConnection()
